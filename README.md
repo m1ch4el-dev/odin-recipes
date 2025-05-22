@@ -4,17 +4,24 @@ This is a project featured in **"The Odin Project"**.
 It is a basic cooking recipe [website](https://m1ch4el-dev.github.io/odin-recipes/) and is meant to demonstrate what I've learned so far from the curriculum.
 
 The project made me learn about:
-- Headers: `<h1></h1>`
-- Paragraphs: `<p></p>`
-- Links: `<a href="https://example.com">Website</a>`
-- Lists: `<ul><li></li></ul>` / `<ol><li></li></ol>`
-- Images: `<img src="example.png" alt="This is an example">`
-- Selectors (CSS)
-- Specificity (CSS)
-- Box model (CSS)
-- Margin, Padding and Borders (CSS)
-- Display types (CSS)
-- Git commands: `git add`, `git commit`, `git push`, `git status`, `git log`
+- HTML
+  - Headers: `<h1></h1>`
+  - Paragraphs: `<p></p>`
+  - Links: `<a href="https://example.com">Website</a>`
+  - Lists: `<ul><li></li></ul>` / `<ol><li></li></ol>`
+  - Images: `<img src="example.png" alt="This is an example">`
+- CSS
+  - Selectors
+  - Specificity
+  - Box model
+  - Margin, Padding and Borders
+  - Display types
+- Git
+  - `git add`
+  - `git commit`
+  - `git push`
+  - `git status`
+  - `git log`
 
 ## Built with
 <p align="left">
