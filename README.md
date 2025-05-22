@@ -1,7 +1,7 @@
 # Odin's Recipes
 This is a project featured in **"The Odin Project"**.
 
-It is a basic cooking recipe website and is meant to demonstrate what I've learned so far from the curriculum.
+It is a basic cooking recipe [website](https://m1ch4el-dev.github.io/odin-recipes/) and is meant to demonstrate what I've learned so far from the curriculum.
 
 The project made me learn about:
 - Headers: `<h1></h1>`
