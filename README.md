@@ -1,5 +1,6 @@
 # Odin's Recipes
-This is a project featured in **"The Odin Project"**.
+
+This is a project featured in [**"The Odin Project"**](https://www.theodinproject.com/lessons/foundations-recipes).
 
 It is a basic cooking recipe [website](https://m1ch4el-dev.github.io/odin-recipes/) and is meant to demonstrate what I've learned so far from the curriculum.
 
